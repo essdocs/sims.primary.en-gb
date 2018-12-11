@@ -1,5 +1,5 @@
 ---
-title: Getting started 2
+title: Getting started
 ---
 
 Welcome to SIMS.
