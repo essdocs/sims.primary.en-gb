@@ -21,7 +21,7 @@
     <div class="nav-bar">
       <input type="image" src="{{site.baseurl}}/assets/css/images/svg/home.svg" onclick="location.href='{{site.baseurl}}/docs/'"
         aria-label="Home" alt="Home">&nbsp;&nbsp;
-      <input type="image" src="{{site.baseurl}}/assets/css/images/svg/back.svg" onclick="javascript:history.back()" aria-label="Previous page"
+      <input type="image" src="{{site.baseurl}}/assets/css/images/svg/back.svg" onclick="javascript:back()" aria-label="Previous page"
         alt="Previous page">&nbsp;&nbsp;
       <input type="image" src="{{site.baseurl}}/assets/css/images/svg/next.svg" onclick="javascript: history.forward()" aria-label="Next page"
         alt="Next page">
@@ -46,7 +46,19 @@
     if (window.parent) {
       window.parent.postMessage({ type: 'help', location: window.location.href }, '*');
     }
+
+function back() {
+  if (document.referrer) {
+      return;
+  }
+  console.log('back');
+
+  history.back();
+}
+
   </script>
+
+
 
 </body>
 
