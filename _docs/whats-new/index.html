@@ -13,7 +13,7 @@ title: What's New
   <article>
     <a href="{{ page.url }}">{{ page.title }}</a>
     <div class="timestamp">{{page.date | date: "%A %d %b %Y"  }}</div>
-    <div>{{ page.content | strip_html | truncatewords: 20 }}</div>
+    <div>{{ page.content | strip_html | truncatewords: 14 }}</div>
     <hr>
   </article>
 {%- endfor -%}

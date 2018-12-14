@@ -52,4 +52,4 @@ To help you switch between your current activities, we keep your current screens
 Related articles
 {:.related}
 
-* [Finding People](../../schoolmanagement/attendance/edit-marks) 
+* [Finding People](../schoolmanagement/pupil/finding-pupils)

@@ -17,8 +17,8 @@ blockquote {
   line-height: 1.5rem;
   position: relative;
 
-  border-color: #4A90E2;
-  background-color: rgb(239, 246, 255);
+  border-color: $sims-colours-light-blue-500;
+  background-color: $sims-colours-light-blue-50;
 
 
   & p:before {
@@ -29,8 +29,8 @@ blockquote {
 
   &.tip {
     background-image: url(images/svg/tip.svg);
-    border-color: #f5a623;
-    background-color: #fdf7e8;
+    border-color: $sims-colours-amber-700;
+    background-color: $sims-colours-amber-100;
 
     & p:before {
       content: "Tip";
@@ -39,8 +39,8 @@ blockquote {
 
   &.note {
     background-image: url(images/svg/note.svg);
-    border-color: #7ed321;
-    background-color: #e7f6f0;
+    border-color:$sims-colours-green-a700;
+    background-color:$sims-colours-green-50;
 
     & p:before {
       content: "Note";
@@ -49,8 +49,8 @@ blockquote {
 
   &.warning {
     background-image: url(images/svg/warning.svg);
-    border-color: #f50057;
-    background-color: rgb(255, 232, 240);
+    border-color: $sims-colours-pink-a400;
+    background-color: $sims-colours-pink-50;
 
     & p:before {
       content: "Warning";

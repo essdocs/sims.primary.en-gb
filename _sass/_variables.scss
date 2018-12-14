@@ -2,104 +2,6 @@
 // Color system
 //
 
-$white:    #fff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #e9ecef !default;
-$gray-300: #dee2e6 !default;
-$gray-400: #ced4da !default;
-$gray-500: #adb5bd !default;
-$gray-600: #6c757d !default;
-$gray-700: #495057 !default;
-$gray-800: #343a40 !default;
-$gray-900: #212529 !default;
-$black:    #000 !default;
-
-$grays: () !default;
-// stylelint-disable-next-line scss/dollar-variable-default
-$grays: map-merge(
-  (
-    "100": $gray-100,
-    "200": $gray-200,
-    "300": $gray-300,
-    "400": $gray-400,
-    "500": $gray-500,
-    "600": $gray-600,
-    "700": $gray-700,
-    "800": $gray-800,
-    "900": $gray-900
-  ),
-  $grays
-);
-
-
-$blue:    #1a73e8 !default;
-$indigo:  #6610f2 !default;
-$purple:  #6f42c1 !default;
-$pink:    #e83e8c !default;
-$red:     #dc3545 !default;
-$orange:  #fd7e14 !default;
-$yellow:  #ffc107 !default;
-$green:   #28a745 !default;
-$teal:    #20c997 !default;
-$cyan:    #17a2b8 !default;
-
-$colors: () !default;
-// stylelint-disable-next-line scss/dollar-variable-default
-$colors: map-merge(
-  (
-    "blue":       $blue,
-    "indigo":     $indigo,
-    "purple":     $purple,
-    "pink":       $pink,
-    "red":        $red,
-    "orange":     $orange,
-    "yellow":     $yellow,
-    "green":      $green,
-    "teal":       $teal,
-    "cyan":       $cyan,
-    "white":      $white,
-    "gray":       $gray-600,
-    "gray-dark":  $gray-800
-  ),
-  $colors
-);
-
-$primary:       $blue !default;
-$secondary:     $gray-600 !default;
-$success:       $green !default;
-$info:          $cyan !default;
-$warning:       $yellow !default;
-$danger:        $red !default;
-$light:         $gray-100 !default;
-$dark:          $gray-800 !default;
-
-$theme-colors: () !default;
-// stylelint-disable-next-line scss/dollar-variable-default
-$theme-colors: map-merge(
-  (
-    "primary":    $primary,
-    "secondary":  $secondary,
-    "success":    $success,
-    "info":       $info,
-    "warning":    $warning,
-    "danger":     $danger,
-    "light":      $light,
-    "dark":       $dark
-  ),
-  $theme-colors
-);
-
-// Set a specific jump point for requesting color jumps
-$theme-color-interval:      8% !default;
-
-// The yiq lightness value that determines when the lightness of color changes from "dark" to "light". Acceptable values are between 0 and 255.
-$yiq-contrasted-threshold:  150 !default;
-
-// Customize the light and dark text colors for use in our YIQ color contrast function.
-$yiq-text-dark:             $gray-900 !default;
-$yiq-text-light:            $white !default;
-
-
 
 $font-family-sans-serif:      -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 $font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
@@ -119,7 +21,7 @@ $line-height-base:            1.5 !default;
 
 $body-bg:                   #fff !default;
 $body-color:                #222 !default;
-$text-muted:                  $gray-600 !default;
+$text-muted:                 $sims-colours-grey-600 !default;
 
 
 $spacer: 1rem !default;
@@ -177,20 +79,20 @@ $table-cell-padding:          .75rem !default;
 $table-cell-padding-sm:       .3rem !default;
 
 $table-bg:                    transparent !default;
-$table-accent-bg:             rgba($black, .05) !default;
-$table-hover-bg:              rgba($black, .075) !default;
+$table-accent-bg:             rgba(#000, .05) !default;
+$table-hover-bg:              rgba(#000, .075) !default;
 $table-active-bg:             $table-hover-bg !default;
 
 $table-border-width:          1px !default;
-$table-border-color:          $gray-300 !default;
+$table-border-color:          $sims-colours-grey-300 !default;
 
-$table-head-bg:               $gray-200 !default;
-$table-head-color:            $gray-700 !default;
+$table-head-bg:               $sims-colours-grey-200 !default;
+$table-head-color:            $sims-colours-grey-700 !default;
 
-$table-dark-bg:               $gray-900 !default;
-$table-dark-accent-bg:        rgba($white, .05) !default;
-$table-dark-hover-bg:         rgba($white, .075) !default;
-$table-dark-border-color:     lighten($gray-900, 7.5%) !default;
+$table-dark-bg:               $sims-colours-grey-900 !default;
+$table-dark-accent-bg:        rgba(#fff, .05) !default;
+$table-dark-hover-bg:         rgba(#fff, .075) !default;
+$table-dark-border-color:     lighten($sims-colours-grey-900, 7.5%) !default;
 $table-dark-color:            $body-bg !default;
 
 $table-striped-order:         odd !default;
@@ -200,7 +102,7 @@ $table-caption-color:         $text-muted !default;
 $label-margin-bottom:                   .5rem !default;
 
 
-$hr-border-color:             rgba($black, .1) !default;
+$hr-border-color:             rgba(#000, .1) !default;
 $hr-border-width:             1px !default;
 $hr-margin-y:                 $spacer !default;
 
@@ -212,7 +114,7 @@ $mark-bg:                     #fcf8e3 !default;
 
 $list-inline-padding:         .5rem !default;
 $blockquote-font-size:        ($font-size-base * 1.25) !default;
-$blockquote-small-color:      $gray-600 !default;
+$blockquote-small-color:      $sims-colours-grey-600 !default;
 
 $grid-gutter-width:           30px !default;
 
@@ -224,16 +126,16 @@ $zindex-tooltip:                    1070 !default;
 // Popovers
 
 $popover-font-size:                 $font-size-base !default;
-$popover-bg:                        $white !default;
+$popover-bg:                        #fff !default;
 $popover-max-width:                 350px !default;
 $popover-border-width:              1px !default;
-$popover-border-color:              rgba($black, .2) !default;
+$popover-border-color:              rgba(#000, .2) !default;
 $popover-border-radius:             3px !default;
-$popover-box-shadow:                0 .25rem .5rem rgba($black, .2) !default;
+$popover-box-shadow:                0 .25rem .5rem rgba(#000, .2) !default;
 
 $popover-header-bg:                 #fff !default;
-$popover-header-color:              $green !default;
-$popover-header-padding-y:          .5rem !default;
+$popover-header-color:             $sims-colours-deep-purple-500 !default;
+$popover-header-padding-y:          .6rem !default;
 $popover-header-padding-x:          .75rem !default;
 
 $popover-body-color:                $body-color !default;
@@ -253,13 +155,13 @@ $border-radius-sm:            .2rem !default;
 $thumbnail-padding:                 .25rem !default;
 $thumbnail-bg:                      $body-bg !default;
 $thumbnail-border-width:            1px !default;
-$thumbnail-border-color:            $gray-300 !default;
+$thumbnail-border-color:            $sims-colours-grey-500 !default;
 $thumbnail-border-radius:           $border-radius !default;
-$thumbnail-box-shadow:              0 1px 2px rgba($black, .075) !default;
+$thumbnail-box-shadow:              none !default;
 
 
 // Figures
 
 $figure-caption-font-size:          90% !default;
-$figure-caption-color:              $gray-600 !default;
+$figure-caption-color:              $sims-colours-grey-600 !default;
 

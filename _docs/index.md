@@ -11,7 +11,7 @@ If you're just getting started, these guides will help you get to know SIMS.
 * [A **tour** of SIMS](getting-started/navigation)
 * [**FAQs**](getting-started/FAQs)
 
-## Class Teacher
+## Class teacher
 
 * [Taking the register](classteacher/clog/take-register)
 * [Recording lunches](classteacher/clog/dinner-register)
