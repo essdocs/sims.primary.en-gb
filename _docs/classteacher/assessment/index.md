@@ -17,6 +17,12 @@ In SIMS there are three types of marksheet:
 > For teachers, there's a shortcut to **General Marksheets** and **Programme of Study Tracking Sheets** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}
 
+{% include faq.html explain="Data entry" %}
+
+On a marksheet there is always an active cell. You can enter results into the active cell with your keyboard. Or, use the [Result Picker](marksheets/result-picker).
+
+{% include faq-end.html  %}
+
 {% include faq.html explain="Marksheet creation" %}
 
 An Assessment Coordinator creates Marksheets.
@@ -87,3 +93,8 @@ There are five Result Types:
 As you enter results into a marksheet, we store the previous result. Recording the result history helps you analyse your pupil's progress.
 
 {% include faq-end.html  %}
+
+Related articles
+{:.related}
+
+* [Formulas](formulas-intro)

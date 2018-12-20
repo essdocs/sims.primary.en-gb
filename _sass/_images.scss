@@ -9,7 +9,6 @@
   @include img-fluid;
 }
 
-
 // Image thumbnails
 .img-thumbnail {
   padding: $thumbnail-padding;
@@ -28,7 +27,7 @@
 
 .figure {
   // Ensures the caption's text aligns with the image.
- // display: inline-block;
+  // display: inline-block;
 }
 
 .figure-img {
@@ -41,9 +40,17 @@
   color: $figure-caption-color;
 }
 
+.img-inline {
+  vertical-align: -9px;
+  width: 2.3rem;
+  border: 1px solid $sims-colours-blue-grey-300;
+  border-radius: 3px;
+  padding: 4px 4px 3px 4px;
+  margin: 3px 0 0 0;
+  display: inline-block;
 
-.img-inline
-{
-  vertical-align: -5px;
-  width: 1.5rem;
+  li & {
+    vertical-align: -9px;
+    margin: -4px 0 0 0;
+  }
 }

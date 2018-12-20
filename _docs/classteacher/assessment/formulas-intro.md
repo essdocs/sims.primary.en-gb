@@ -2,32 +2,33 @@
 title: Formulas
 ---
 
-A formula performs calculations or other actions on the data in your Marksheet.
+A formula calculates something or returns some result based on data in the marksheet.
 
 Formula columns are indicated by an {% include icon.html url="formula-function" title="Formula Icon" %} symbol in the column header.
 
 To see details of the formula, open the {% include glossarytooltip.html explain="Column Menu" %} and click {% include icon.html url="formula" title="Take Formula" %} **View Formula**.
 
-A formula can contain any or all of the following: functions, references, operators, and constants.
+Formulas are made up of: 
 
-## Functions
+* Column references
+* Operators
+* Functions
+* anothe point
 
-Functions are predefined formulas that do calculations by using values passed in, called arguments.
+## Column reference
 
-* [GRADETALLY](functions/gradetally)
-* [IF](functions/if)
-* [LARGE](functions/large)
-* [MARKSTOGRADE](functions/markstograde)
-* [MAX](functions/max)
-* [MEAN](functions/mean)
-* [MEDIAN](functions/median)
-* [PERCENT](functions/percentage)
-* [POSITION](functions/position)
-* [RANGE](functions/range)
+Columns have headers. E.g., *En Reading Comp Stat  1.04*.
 
-## Operator
+You reference a column by its header surrounded by square brackets. E.g.:
 
-Operators specify the type of calculation that you want to perform on the Assessment.
+~~~ sql
+[En Reading Comp Stat  1.04]
+~~~
+
+> We do this because the header text contains spaces.
+{:.note}
+
+## Operators
 
 There are two different types of calculation operators: arithmetic and comparison.
 
@@ -55,18 +56,54 @@ You can compare two values with the following operators. Comparing two values re
 | <= (less than or equal to sign)    | Less than or equal to    | [Column 1]<=[Column 2]  |
 | <> (not equal to sign)             | Not equal to             | [Column 1]<>[Column 2]  |
 
-## Parentheses
+### Operator precedence
 
-There are cases where the order in which a calculation is performed affects the return value of the formula.
+You must take into account the order of mathematical operators when writing formulas. I.e., operator precedence. 
 
-To change the order of evaluation, enclose in parentheses the part of the formula to be calculated first. For example:
+Here's the order of precedence:
+
+* Parentheses
+* Multiplication and division
+* Addition and subtraction
+
+The order calculations are performed changes the return value of the formula. E.g.:
 
 ~~~ math
 1 + 2 * 3 = 7
 ~~~
 
-In contrast, using parentheses to change the precedence you get:
+In contrast, using parentheses changes the precedence, so you get:
 
 ~~~ sql
 (1 + 2) * 3 = 9
 ~~~
+
+To change the order of execution, enclose in parentheses the part of the formula to be calculated first.
+
+
+
+## Functions
+
+Functions are like little utility programs that do a calculation and return a value. 
+
+Functions can be combined and nested, i.e., you can use a function inside another function.
+
+Functions comprise of the function name and arguments, as you can see in the example below:
+
+The arguments supply the values needed by the function. The function encloses the arguments in parentheses.
+
+Arguments surrounded by square brackets are optional. E.g., the VLOOKUP argument; ‘range_lookup’, is optional.
+
+We provide these functions:
+
+* [GRADETALLY](functions/gradetally)
+* [IF](functions/if)
+* [LARGE](functions/large)
+* [MARKSTOGRADE](functions/markstograde)
+* [MAX](functions/max)
+* [MEAN](functions/mean)
+* [MEDIAN](functions/median)
+* [PERCENT](functions/percentage)
+* [POSITION](functions/position)
+* [RANGE](functions/range)
+
