@@ -84,7 +84,9 @@ To change the order of execution, enclose in parentheses the part of the formula
 
 ## Functions
 
-Functions are like little utility programs that do a calculation and return a value. 
+Functions are like little utility programs that do a calculation and return a value.
+
+{% comment %}
 
 Functions can be combined and nested, i.e., you can use a function inside another function.
 
@@ -93,6 +95,8 @@ Functions comprise of the function name and arguments, as you can see in the exa
 The arguments supply the values needed by the function. The function encloses the arguments in parentheses.
 
 Arguments surrounded by square brackets are optional. E.g., the VLOOKUP argument; ‘range_lookup’, is optional.
+
+{% endcomment %}
 
 We provide these functions:
 
