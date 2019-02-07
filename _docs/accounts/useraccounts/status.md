@@ -22,4 +22,4 @@ The status indicates whether a person's account is active or suspended.
 : The person has left your organisation. By default, we hide inactive accounts from your search results.
 
 {% include icon.html url="user-times" %} Deactivated
-: As a site admin, this action can be done through the Site admin page to deactivate the user account from SIMSID (it removes/deactivates the link between User account and school from SIMSID). To grant access again, the user will have to be re-invited again. This can be used in situations when say a user/staff leaves the organisation and the site admin can deactivate their account (through the Site admin portal). Ideally they would have to terminate the memberships of security groups they belong to after this.
+: Deactivating the user account removes the link between a user account from SIMS ID. E.g., when a person leaves your organisation, you can set their account to inactive, and their account can be deactivated.
