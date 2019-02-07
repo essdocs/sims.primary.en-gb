@@ -17,7 +17,7 @@ Before people in your school can begin using SIMS, you need to create user accou
 1. Use the **Search** panel to find the invitee
 1. Select the person you need to invite
 1. Go to their **User Account Details** Panel
-1. Click the **Send Invite**  
+1. Click the **Send Invite** {% include icon.html url="paper-plane-o" title="Send Invite" %} button.
 
 The invitee receives a welcome email message that explains how to sign in for the first time.
 
