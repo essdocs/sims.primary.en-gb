@@ -1,10 +1,10 @@
 ---
-title: Removing a user account
+title: Deactivate (Delete) user accounts
 ---
 
 When a user leaves your organisation, you can make their account inactive.
 
-> Currently, we don't allow you to delete User Accounts.
+> You can’t delete a user accounts, but you can deactivate an account so a they can no longer sign in to your organisation.
 {: .note}
 
 > By default, we hide inactive user accounts from your search results.

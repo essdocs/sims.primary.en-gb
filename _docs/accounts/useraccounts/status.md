@@ -1,13 +1,14 @@
 ---
-title: The status of a user account
+title: User account status
 ---
 
 The status indicates whether a person's account is active or suspended.
+{:.lead}
 
-## Status definitions
+## User account statuses
 
 {% include icon.html url="user-alert" %} Not Invited
-: The person is not yet invited to your organisation.
+: The person isn't invited to your organisation.
 
 {% include icon.html url="user-arrow-right" %} Invited
 : The person was sent an invitation but haven't yet accepted

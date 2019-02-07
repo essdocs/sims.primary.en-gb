@@ -2,7 +2,9 @@
 title: User account types
 ---
 
-## User account type
+## User account types
+
+SIMS has three basic types of user accounts:
 
 Staff Accounts
 : User accounts linked to a member of staff.

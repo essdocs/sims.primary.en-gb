@@ -2,7 +2,7 @@
 title: Adding a new user Account
 ---
 
-> To avoid duplicates, please check if there is an existing suspended or inactive user account for the person. E.g., a member of staff returning to the school.
+> To avoid duplicates, please check if there's an existing suspended or inactive user account for the person. E.g., a member of staff returning to the school.
 {:.warning}
 
 ## To add a new user account

@@ -5,7 +5,7 @@ title: Inviting People
 Get your staff using SIMS
 {:.lead}
 
-Before people in your school can begin using SIMS, you need to create user accounts for each person and send them an invitation.
+Before people in your school can start using SIMS, you need to create user accounts for each person and send them an invitation.
 
 > When your school's data migrates to SIMS, we create user accounts for all staff members.
 {: .note}

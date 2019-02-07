@@ -14,4 +14,5 @@ You can temporarily block people access to your organisation by suspending their
 
 Related articles
 {: .related}
+
 * [Suspend User Accounts](suspend)
