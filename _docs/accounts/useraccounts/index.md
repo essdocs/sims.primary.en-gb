@@ -19,6 +19,7 @@ From the **User Accounts** screen you can:
 * Grant and revoke permissions
 
 * [Finding user accounts](find)
+* [Adding a new user account](add)
 * [Suspend user accounts](suspend)
 * [Restore suspended user accounts](restore)
 * [Removing user accounts](remove)

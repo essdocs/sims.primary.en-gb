@@ -53,4 +53,10 @@
     vertical-align: -9px;
     margin: -4px 0 0 0;
   }
+
+  dt > & {
+    border: none;
+    margin: 0;
+    vertical-align: -7px;
+}
 }
