@@ -1,8 +1,8 @@
 ---
-title: User account status
+title: User account statuses
 ---
 
-The status indicates whether a person's account is active or suspended.
+The user accounts status shows whether a person's account is active or suspended.
 {:.lead}
 
 ## User account statuses
@@ -11,16 +11,19 @@ The status indicates whether a person's account is active or suspended.
 : The person isn't invited to your organisation.
 
 {% include icon.html url="user-arrow-right" %} Invited
-: The person was sent an invitation but haven't yet accepted
+: The person was sent an invitation but hasn't yet accepted.
 
 {% include icon.html url="user-check" %} Activated
-: The person has received an invitation and have successfully set up their account
+: The person has received an invitation and have successfully set up their account.
 
 {% include icon.html url="lock" %} Suspended
-: The person user account is suspended by an administrator.
+: The person's user account is suspended by an administrator.
 
 {% include icon.html url="user-off" %}  Inactive
-: The person has left your organisation. By default, we hide inactive accounts from your search results.
+: The person has left your organisation. 
+
+>By default, we hide inactive accounts from your search results. You can find inactive accounts by unchecking the **Only Show Active User Accounts** checkbox on the **Search** panel.
+{:.note}
 
 {% include icon.html url="user-times" %} Deactivated
-: Deactivating the user account removes the link between a user account from SIMS ID. E.g., when a person leaves your organisation, you can set their account to inactive, and their account can be deactivated.
+: Deactivating the user account removes the link between a user account from SIMS ID.

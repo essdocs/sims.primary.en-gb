@@ -2,17 +2,14 @@
 title: User accounts
 ---
 
-As a administrator, you manage people in your organisation. Besides creating and assigning user accounts, user account management includes working with permissions and roles, and more.
+Creating user accounts and setting permissions.
+{:.lead}
 
-## Invite staff to use SIMS
-
-When your school's data migrates to SIMS, we create user accounts for all staff members.
+## Inviting staff to use SIMS
 
 * [Inviting Staff](invite)
 
 ## Managing user accounts
-
-To manage a user's settings, go to their **User Accounts** record.
 
 * [Finding user accounts](find)
 * [Adding a new user account](add)

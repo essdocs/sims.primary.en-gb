@@ -10,3 +10,5 @@ grep -o -r -w  --include "*.md" -f words/technical.txt  /Users/ssutton/Documents
 grep -o -r -w  --include "*.md" -f words/filler.txt  /Users/ssutton/Documents/GitHub/sims.primary.en-gb/_docs/accounts/useraccounts
 grep -o -r -w  --include "*.md" -f words/banned.txt  /Users/ssutton/Documents/GitHub/sims.primary.en-gb/_docs/accounts/useraccounts
 grep -o -r -w  --include "*.md" -f words/tobe.txt  /Users/ssutton/Documents/GitHub/sims.primary.en-gb/_docs/accounts/useraccounts
+grep -o -r -w  --include "*.md" -f words/contractions.txt  /Users/ssutton/Documents/GitHub/sims.primary.en-gb/_docs/accounts/useraccounts
+grep -o -r -w  --include "*.md" -f words/hedge.txt  /Users/ssutton/Documents/GitHub/sims.primary.en-gb/_docs/accounts/useraccounts
