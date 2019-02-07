@@ -24,7 +24,7 @@ If you're just getting started, these guides will help you get to know SIMS.
 ## School management
 
 Get the most out of SIMS in your school with guides, tips, examples, and other resources.
-
+* [User accounts](accounts/useraccounts)
 * [Managing pupils](schoolmanagement/pupil/)
 * *More coming soon*
 
