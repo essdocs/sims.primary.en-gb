@@ -5,7 +5,7 @@ title: Taking the register
 A few clicks and you're done.
 {:.lead}
 
-## Opening Take Register
+## Opening old Take Register
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find the {% include glossarytooltip.html explain="Class Log" page=page %}.
