@@ -5,9 +5,6 @@ title: Taking the register
 A few clicks and you're done.
 {:.lead}
 
-
-hello world
-
 ## Opening Take Register
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
