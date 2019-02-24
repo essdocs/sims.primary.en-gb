@@ -56,4 +56,14 @@ blockquote {
       content: "Warning";
     }
   }
+
+  &.under-construction {
+    background-image: url(images/svg/clock-outline.svg);
+    border-color:$sims-colours-green-a700;
+    background-color:$sims-colours-green-50;
+
+    & p:before {
+      content: "Coming Soon";
+    }
+  }
 }

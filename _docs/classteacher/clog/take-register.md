@@ -5,6 +5,9 @@ title: Taking the register
 A few clicks and you're done.
 {:.lead}
 
+> This articles covers the new **Take Register** screen. The new **Take Register** will be available in March 2019.
+{:.under-construction}
+
 ## Opening old Take Register
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
