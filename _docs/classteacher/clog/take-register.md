@@ -8,7 +8,7 @@ A few clicks and you're done.
 > This articles covers the new **Take Register** screen. The new **Take Register** will be available in March 2019.
 {:.under-construction}
 
-## Opening old Take Register
+## Opening Take Register
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
 2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find the {% include glossarytooltip.html explain="Class Log" page=page %}.
