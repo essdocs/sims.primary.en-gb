@@ -20,9 +20,9 @@
     <div class="nav-bar">
       <input type="image" src="{{site.baseurl}}/assets/css/images/svg/home.svg" onclick="location.href='{{site.baseurl}}/docs/'"
         aria-label="Home" alt="Home">&nbsp;&nbsp;
-      <input type="image" src="{{site.baseurl}}/assets/css/images/svg/back.svg" onclick="javascript: window.history.back()" aria-label="Previous page"
+      <input type="image" src="{{site.baseurl}}/assets/css/images/svg/back.svg" onclick="javascript: window.parent.postMessage({ type: 'helpback'}, '*')" aria-label="Previous page"
         alt="Previous page">&nbsp;&nbsp;
-      <input type="image" src="{{site.baseurl}}/assets/css/images/svg/next.svg" onclick="javascript: window.history.forward()" aria-label="Next page"
+      <input type="image" src="{{site.baseurl}}/assets/css/images/svg/next.svg" onclick="javascript: window.parent.postMessage({ type: 'helpforward'}, '*')" aria-label="Next page"
         alt="Next page">
     </div>
 
