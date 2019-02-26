@@ -11,7 +11,7 @@ title: What's New
 
 {%- for page in selection -%}
   <article>
-    <a href="{{ page.url | remove: '.html' }}">{{ page.title }}</a>
+    <a href="{{site.baseurl}}{{ page.url | remove: '.html' }}">{{ page.title }}</a>
     <div class="timestamp">{{page.date | date: "%A %d %b %Y"  }}</div>
     <div>{{ page.content | strip_html | truncatewords: 14 }}</div>
     <hr>
