@@ -23,7 +23,7 @@ title: What's New
     {%- assign selection = site.docs | where: 'whats-new', 'old' | reverse  -%}
     {%- for page in selection -%}
     <li>
-      <a href="{{page.url}}">{{page.title}}</a>
+      <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
     </li>
     {%- endfor -%}
     <ul>
