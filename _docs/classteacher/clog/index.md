@@ -5,8 +5,7 @@ title: The Class Log
 Designed for the classroom, the Class Log is a new way for you to interact with information on your class.
 {:.lead}
 
-{% include youtubePlayer.html id="BpJxomJgdwE" %}
-
+![Class Log](https://img.youtube.com/vi/BpJxomJgdwE/0.jpg){:class="figure-img img-fluid img-thumbnail" }
 
 Many of your daily tasks can be made easier with the Class Log:
 
