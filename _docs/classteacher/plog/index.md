@@ -5,11 +5,13 @@ title: Pupil Log
 A new way to view and share pupil information.
 {:.lead}
 
+{% include video.html title="" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/pupil_log_intro.mp4" %}
+
 ## Opening the Pupil Log
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
-1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Pupil Log**.
-1. Use the **Search** panel to find the pupil
+2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Pupil Log**.
+3. Use the **Search** panel to find the pupil
 
 > For teachers, there's a shortcut to **Pupil Log** in the {% include glossarytooltip.html explain="Quick Links" %}.
 {:.tip}

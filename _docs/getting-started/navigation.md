@@ -5,6 +5,8 @@ title: A tour of SIMS
 Finding stuff and multitasking.
 {:.lead}
 
+{% include video.html title="" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/welcome_to_sims.mp4" %}
+
 ## The main menu
 
 It's hard to miss SIMS's main menu.  But in case you did, it's the bright pink button, top left of the app.

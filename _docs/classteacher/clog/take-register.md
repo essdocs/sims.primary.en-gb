@@ -8,6 +8,8 @@ A few clicks and you're done.
 > This articles covers the new **Take Register** screen. The new **Take Register** will be available in March 2019.
 {:.under-construction}
 
+{% include video.html title="" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/take_register.mp4" %}
+
 ## Opening Take Register
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.

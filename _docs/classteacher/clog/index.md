@@ -5,6 +5,12 @@ title: The Class Log
 Designed for the classroom, the Class Log is a new way for you to interact with information on your class.
 {:.lead}
 
+{% include video.html title="Introducing the Class Log" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/class_log_1.mp4" %}
+
+{% include video.html title="Viewing Pupil Information" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/class_log_2.mp4" %}
+
+{% include video.html title="Sorting and Filtering" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/class_log_3.mp4" %}
+
 Many of your daily tasks can be made easier with the Class Log:
 
 * [Taking the register](take-register)
