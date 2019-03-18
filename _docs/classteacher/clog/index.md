@@ -2,7 +2,7 @@
 title: The Class Log
 ---
 
-Designed for the classroom, the Class Log is a new way for you to interact with information on your class.
+A classroom management tool, designed for classroom teachers.
 {:.lead}
 
 {% include video.html title="Introducing the Class Log" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/class_log_1.mp4" poster="class_log_1.jpg" %}
