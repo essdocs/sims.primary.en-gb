@@ -5,7 +5,7 @@ title: Pupil Log
 A new way to view and share pupil information.
 {:.lead}
 
-{% include video.html title="" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/pupil_log_intro.mp4" %}
+{% include video.html title="" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/pupil_log_intro.mp4" poster="pupil_log_1.jpg" %}
 
 ## Opening the Pupil Log
 

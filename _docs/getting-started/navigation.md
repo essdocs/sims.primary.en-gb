@@ -5,7 +5,7 @@ title: A tour of SIMS
 Finding stuff and multitasking.
 {:.lead}
 
-{% include video.html title="" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/welcome_to_sims.mp4" %}
+{% include video.html title="" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/welcome_to_sims.mp4" poster="navigation.jpg"%}
 
 ## The main menu
 
