@@ -4,7 +4,7 @@ title: FAQs
 
 {% include faq.html explain="How do I change the date to **UK format**" %}
 
-If the dates in SIMS aren't displaying in the UK format, i.e. dd/MM/yyyy, then *probably* your browser or operating system's **Language and Region** settings are set to US English.
+If the dates in SIMS aren't displaying in the UK format, i.e. dd/mm/yyyy, then *probably* your browser or operating system's **Language and Region** settings are set to US English.
 
 Changing the **Language and Region** settings depend upon your browser and operating system. 
 
