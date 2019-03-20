@@ -9,7 +9,9 @@ Finding screens and multitasking.
 
 ## The main menu
 
-It's hard to miss SIMS's main menu.  But in case you did, it's the bright pink button, top left of the app.
+Wherever you are in the application, the menu is always available at the top of the screen.
+
+The menu helps you search for and launch screens.
 
 {% include image.html url="shots/menu.png" title="The main menu" %}
 
