@@ -7,7 +7,7 @@ title: What's New
   Learn about recently released features.
 </p>
 
-{%- assign selection = site.docs | where: 'whats-new', true | reverse -%}
+{%- assign selection = site.docs | where: 'is-new', true | reverse -%}
 
 {%- for page in selection -%}
   <article>
@@ -20,7 +20,7 @@ title: What's New
 <section>
   <h2>Older</h2>
   <ul>
-    {%- assign selection = site.docs | where: 'whats-new', 'old' | reverse  -%}
+    {%- assign selection = site.docs | where: 'is-new', false | reverse  -%}
     {%- for page in selection -%}
     <li>
       <a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a>
