@@ -11,9 +11,27 @@ title: What's New
 
 {%- for page in selection -%}
   <article>
-    <a href="{{site.baseurl}}{{ page.url | remove: '.html' }}">{{ page.title }}</a>
-    <div class="timestamp">{{page.date | date: "%A %d %b %Y"  }}</div>
-    <div>{{ page.content | strip_html | truncatewords: 14 }}</div>
+    <span class="timestamp float-right">
+        {% assign today_year = "now" | date: "%Y" %}
+        {% assign page_year = page.date | date: "%Y"  %}
+
+
+{% if today_year == page_year %}
+  {{page.date | date: "%a %d %b"  }}
+{% else %}  
+    {{page.date | date: "%a %d %b %Y"  }}
+{% endif %}
+
+    
+    </span>
+
+     <a href="{{site.baseurl}}{{ page.url | remove: '.html' }}">{{ page.title }}</a>
+ 
+
+    <p>
+      <span>{{ page.content | strip_html | truncatewords: 14 }}</span>
+    </p>
+    <div class="tag">{{page.area}}</div>
     <hr>
   </article>
 {%- endfor -%}
