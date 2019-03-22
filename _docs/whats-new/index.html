@@ -11,27 +11,39 @@ title: What's New
 
 {%- for page in selection -%}
   <article>
-    <span class="timestamp float-right">
-        {% assign today_year = "now" | date: "%Y" %}
-        {% assign page_year = page.date | date: "%Y"  %}
 
+    <div >
 
-{% if today_year == page_year %}
-  {{page.date | date: "%a %d %b"  }}
-{% else %}  
-    {{page.date | date: "%a %d %b %Y"  }}
-{% endif %}
-
+   
+    <div>
+      <small class="timestamp float-right">
+          {% assign today_year = "now" | date: "%Y" %}
+          {% assign page_year = page.date | date: "%Y"  %}
+          {% if today_year == page_year %}
+            {{page.date | date: "%a %d %b"  }}
+          {% else %}  
+              {{page.date | date: "%a %d %b %Y"  }}
+          {% endif %}
+      </small>
+      <a href="{{site.baseurl}}{{ page.url | remove: '.html' }}">{{ page.title }}</a>
+    </div>
     
-    </span>
-
-     <a href="{{site.baseurl}}{{ page.url | remove: '.html' }}">{{ page.title }}</a>
- 
-
     <p>
       <span>{{ page.content | strip_html | truncatewords: 14 }}</span>
     </p>
-    <div class="tag">{{page.area}}</div>
+
+    <div >
+        {% case page.type %}
+          {% when 'bug' %}
+          <img src="{{site.baseurl}}/assets/css/images/svg/bug.svg">&nbsp;<small style="color:#F50057; vertical-align: middle">Bug Fix</small>
+          {% when 'new' %}
+          <img src="{{site.baseurl}}/assets/css/images/svg/newfeature.svg">&nbsp;<small  style="color:#F5A623; vertical-align: middle">New Feature</small>
+          {% when 'feedback' %}
+          <img src="{{site.baseurl}}/assets/css/images/svg/feedback.svg">&nbsp;<small  style="color:#417505; vertical-align: middle">Feedback</small>
+      {% endcase %}
+
+    </div>
+  </div>
     <hr>
   </article>
 {%- endfor -%}
