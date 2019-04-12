@@ -7,7 +7,7 @@ title: Roadmap
   See what we're working on...
 </p>
 
-{% assign selection = site.docs | where_exp: "item" , "item.path contains 'roadmap'"% | where_exp: "item" , "item.path contains '.md'"%}
+{% assign selection = site.docs | where_exp: "item" , "item.path contains 'roadmap'" | where_exp: "item" , "item.path contains '.md'"%}
 
 <ul>
   {%- for page in selection -%}
