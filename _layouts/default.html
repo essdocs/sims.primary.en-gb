@@ -50,7 +50,6 @@
 
     if (window.parent) {
         window.parent.postMessage({ type: 'helpback' }, '*');
-        window.history.back();
     } else {
         window.history.back();
     }
@@ -61,7 +60,6 @@ function handleForward() {
 
     if (window.parent) {
         window.parent.postMessage({ type: 'helpforward' }, '*');
-        window.history.forward();
     } else {
         window.history.forward();
     }
