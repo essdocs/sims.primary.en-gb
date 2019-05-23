@@ -1,5 +1,5 @@
 ---
-title: Edit Marks
+title: Edit Marks Screen
 ---
 
 Manage your attendance data
@@ -8,8 +8,8 @@ Manage your attendance data
 ## Opening Edit Marks
 
 1. Open the {% include glossarytooltip.html explain="Menu" %}.
-1. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Edit Marks**.
-1. Choose the date and group
+2. Use the {% include glossarytooltip.html explain="Menu Search" %} to find **Edit Marks**.
+3. Choose the date and group
 
 ## Uses for Edit Marks
 
