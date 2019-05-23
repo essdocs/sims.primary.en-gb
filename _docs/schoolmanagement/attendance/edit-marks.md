@@ -1,5 +1,5 @@
 ---
-title: Edit Marks Screen
+title: Edit Marks
 ---
 
 Manage your attendance data
