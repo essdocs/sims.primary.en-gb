@@ -5,9 +5,6 @@ title: Taking the register
 A few clicks and you're done.
 {:.lead}
 
-> This articles covers the new **Take Register** screen. The new **Take Register** will be available in May 2019.
-{:.under-construction}
-
 {% include video.html title="" url="https://s3.amazonaws.com/capita-cs/sims-embedded-help/take_register.mp4" poster="take_register.jpg" %}
 
 ## Opening Take Register
