@@ -2,7 +2,7 @@
 title: New School Reports screen
 release: v2019.03.20.4
 date: 09 April 2019
-is-new: true
+is-new: false
 area: Reporting
 type: new
 ---

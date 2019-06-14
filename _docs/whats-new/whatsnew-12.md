@@ -2,7 +2,7 @@
 title:  Improvements for inviting staff to your organisation
 release: v2019.02.15.5
 date: 15 March 2019
-is-new: true
+is-new: false
 area: User Accounts
 type: feedback
 ---

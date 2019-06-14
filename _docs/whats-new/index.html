@@ -16,14 +16,8 @@ title: What's New
 
    
     <div>
-      <small class="timestamp float-right">
-          {% assign today_year = "now" | date: "%Y" %}
-          {% assign page_year = page.date | date: "%Y"  %}
-          {% if today_year == page_year %}
-            {{page.date | date: "%a %d %b"  }}
-          {% else %}  
-              {{page.date | date: "%a %d %b %Y"  }}
-          {% endif %}
+      <small class="timestamp float-right">    
+        {{page.date | date: "%b %Y"  }}
       </small>
       <strong >{{ page.title }}</strong>
     </div>
