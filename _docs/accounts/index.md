@@ -12,4 +12,4 @@ Learn more about managing your account, safeguarding your data, and protecting y
 
 ## Privacy
 
-* [Your Privacy](privacy)
+* [Privacy notice](privacy)

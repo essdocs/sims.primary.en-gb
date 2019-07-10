@@ -31,7 +31,8 @@ Get the most out of SIMS in your school with guides, tips, examples, and other r
 ## Your account
 
 * [Your account](accounts/)
-
+* [Privacy notice](accounts/privacy)
+  
 ## More
 
 * [What's new](whats-new/)
