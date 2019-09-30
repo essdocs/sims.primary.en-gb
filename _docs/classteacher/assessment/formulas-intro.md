@@ -13,7 +13,6 @@ Formulas are made up of:
 * Column references
 * Operators
 * Functions
-* anothe point
 
 ## Column reference
 
@@ -79,8 +78,6 @@ In contrast, using parentheses changes the precedence, so you get:
 ~~~
 
 To change the order of execution, enclose in parentheses the part of the formula to be calculated first.
-
-
 
 ## Functions
 

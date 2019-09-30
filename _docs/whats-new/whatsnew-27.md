@@ -2,7 +2,7 @@
 title: Resource Catalogue
 release: v2019.6.4.4
 date: June 2019
-is-new: true
+is-new: false
 area: Community
 type: new
 ---
