@@ -2,21 +2,6 @@
 title: FAQs
 ---
 
-{% include faq.html explain="How do I change the date to **UK format**" %}
-
-If the dates in SIMS aren't displaying in the UK format, i.e. dd/mm/yyyy, then *probably* your browser or operating system's **Language and Region** settings are set to US English.
-
-Changing the **Language and Region** settings depend upon your browser and operating system. 
-
-Try googling to find how to change your settings:
-
-* [Windows 10 edge change date to UK format](http://www.google.co.uk/search?q=Windows+10+edge+change+date+to+UK+format){:target="_blank"}
-* [Window 7 chrome change date to UK format](http://www.google.co.uk/search?q=Window+7+chrome+change+date+to+UK+format){:target="_blank"}
-* [MacOS safari change date to UK format](http://www.google.co.uk/search?q=MacOS+safari+change+date+to+UK+format){:target="_blank"}
-* [IOS safari change date to UK format](http://www.google.co.uk/search?q=IOS+safari+change+date+to+UK+format){:target="_blank"}
-
-{% include faq-end.html  %}
-
 {% include faq.html explain="How do I find out **what’s new** in SIMS?" %}
 
 To learn about new features and enhancements, see the [What's new](../whats-new/) article.
