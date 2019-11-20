@@ -2,7 +2,10 @@
 title: Attendance
 ---
 
-### In progress
+### In Development
 
-* New Take Register Screen (accessible from Class Log)
-* Dinner Money – for evaluation (incl. Staff Meals, Meal Patterns, Meal Register)
+* Ongoing improvements to performance
+
+### In Discovery and Design
+
+* Lesson Attendance

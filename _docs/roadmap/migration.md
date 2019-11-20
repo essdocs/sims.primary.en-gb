@@ -2,11 +2,6 @@
 title: Migration
 ---
 
-### In progress
-* Customer Migration Reports
-* Data masking compliance for support cases
+### In Discovery and Design
 
-### Under consideration
-
-* Self-service Migration options
-* Creating ‘Greenfield’ sites
+* Mass on-boarding

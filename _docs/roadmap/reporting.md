@@ -2,12 +2,16 @@
 title: Reporting
 ---
 
-### In progress
+### In Development
 
-* Updating the pre-defined reports to give a more consistent look and feel and improve performance
-* Dashboards POC
+* New versions of Attendance reports
+* Conduct Summary for Individuals Dashboard
+* Assessment Dashboards
+* Additional predefined reports
+
+### In Discovery and Design
+
+* Data analytics for schools and MATs
+* Attendance Dashboard
 * Parental Reporting
-
-### Under consideration
-
-* POC for data analytics for schools and MATs
+* Templates, Letters and Labels
