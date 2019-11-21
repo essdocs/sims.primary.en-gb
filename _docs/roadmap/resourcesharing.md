@@ -1,5 +1,5 @@
 ---
-title: Exams
+title: Resource Sharing
 ---
 
 ### In Development
