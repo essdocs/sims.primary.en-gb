@@ -2,9 +2,8 @@
 title: Pupil
 ---
 
-### Under consideration
+### In Discovery and Design
 
-* Interventions
 * Detentions
 * Bulk Data Anonymisation and Delete
 * Seating plans
