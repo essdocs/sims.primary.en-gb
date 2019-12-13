@@ -7,6 +7,4 @@ area: Attendance
 type: new
 ---
 
-We've designed a brand new Take Register screen to streamline the process of taking a class register. 
-
-[Learn more about the Take Register screen](../classteacher/clog/take-register)
+We've designed a brand new Take Register screen to streamline the process of taking a class register.

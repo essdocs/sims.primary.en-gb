@@ -2,7 +2,7 @@
 title: SIMS Reports renamed
 release: v2019.8.7.3
 date: August 2019
-is-new: true
+is-new: false
 area: Reporting
 type: new
 ---
