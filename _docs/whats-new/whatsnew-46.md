@@ -2,7 +2,7 @@
 title: Improvements to recording Staff Experience
 release: v2019.11.15.13
 date: Dec 2019
-is-new: true
+is-new: false
 area: Staff
 type: feedback
 ---

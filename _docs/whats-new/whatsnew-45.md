@@ -2,7 +2,7 @@
 title: Improvements to Setup Marksheets and Parental Reports
 release: v2019.11.15.13
 date: Dec 2019
-is-new: true
+is-new: false
 area: Assessment
 type: feedback
 ---

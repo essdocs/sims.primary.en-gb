@@ -2,7 +2,7 @@
 title: Assessment Marksheets with pupil attendance columns 
 release: v2019.11.1.9
 date: Nov 2019
-is-new: true
+is-new: false
 area: Assessment
 type: bug
 ---

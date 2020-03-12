@@ -2,7 +2,7 @@
 title: Standard UK date format (DD/MM/YYYY)
 release: v2019.8.30.7
 date: Sept 2019
-is-new: true
+is-new: false
 area: All Screens
 type: feedback
 ---
