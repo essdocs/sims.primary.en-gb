@@ -4,6 +4,8 @@ markdown: kramdown
 
 permalink: none
 
+title: SIMS Help
+
 collections:
   glossary:
     output: false 
@@ -20,6 +22,14 @@ defaults:
     type: docs
   values:
     layout: docs
+    navkey: help
+    homeurl: docs
+- scope:
+    path: "_docs/whats-new"
+  values:   
+    header: What's New
+    navkey: whatsnew
+    homeurl: docs/whats-new
 
 exclude: ['_site', 'node_modules', 'src']
 

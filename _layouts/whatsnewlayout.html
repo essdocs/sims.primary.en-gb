@@ -16,9 +16,9 @@
 <body id="body">
 
   <nav id="help-nav">   
-     <h1 class="nav-bar-header">{{ page.header | default: site.title }}</h1>
+     <h1 class="nav-bar-header">What's New</h1>
     <div class="nav-bar">
-      <input type="image" src="{{site.baseurl}}/assets/css/images/svg/home.svg" onclick="location.href='{{site.baseurl}}/{{page.homeurl}}/'"
+      <input type="image" src="{{site.baseurl}}/assets/css/images/svg/home.svg" onclick="location.href='{{site.baseurl}}/docs/whats-new/'"
         aria-label="Home" alt="Home">&nbsp;&nbsp;
       <input type="image" src="{{site.baseurl}}/assets/css/images/svg/back.svg" onclick="javascript: handleBack()" aria-label="Previous page"
         alt="Previous page">&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 
   </nav>
   <div id="help-body">
-    <div class="container-fluid" style="margin-top: 1rem">
+    <div class="container-fluid" style="margin-top: 1rem;">
       {{ content }}
     </div>
   </div>
@@ -41,15 +41,16 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.js" integrity="sha256-cVd/tGoi+gMVBrq5xd20ZA447xChtJWaESiLQc5LB1c="
     crossorigin="anonymous"></script>
     <script src="{{ "/assets/js/bundle.js" | prepend: site.baseurl }}"></script>
+  
   <script>
     if (window.parent) {
-      window.parent.postMessage({ type: '{{ page.navkey }}', location: window.location.href }, '*');
+      window.parent.postMessage({ type: 'whatsnew', location: window.location.href }, '*');
     }
     
     function handleBack() {
 
     if (window.parent) {
-        window.parent.postMessage({ type: '{{ page.navkey }}back' }, '*');
+        window.parent.postMessage({ type: 'whatsnewback' }, '*');
     } else {
         window.history.back();
     }
@@ -59,7 +60,7 @@
 function handleForward() {
 
     if (window.parent) {
-        window.parent.postMessage({ type: '{{ page.navkey }}forward' }, '*');
+        window.parent.postMessage({ type: 'whatsnewforward' }, '*');
     } else {
         window.history.forward();
     }
