@@ -2,7 +2,7 @@
 title: Fix to Attendance Reports - Group Weekly Attendance
 release: v2020.2.18.4
 date: March 2020
-is-new: true
+is-new: false
 area: Reporting
 type: bug
 ---

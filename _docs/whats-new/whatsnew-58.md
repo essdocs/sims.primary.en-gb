@@ -2,7 +2,7 @@
 title: Fix to General Marksheets and Programme of Study Tracking Marksheets
 release: v2020.2.18.4
 date: March 2020
-is-new: true
+is-new: false
 area: Assessment
 type: bug
 ---

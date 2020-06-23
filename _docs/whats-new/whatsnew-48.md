@@ -2,7 +2,7 @@
 title: Improvements to Reason for Leaving Lookup
 release: v2020.1.3.6
 date: Jan 2020
-is-new: true
+is-new: false
 area: Lookups
 type: feedback
 ---
