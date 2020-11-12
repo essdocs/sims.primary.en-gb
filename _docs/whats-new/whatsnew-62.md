@@ -2,7 +2,7 @@
 title: Individual Conduct Dashboard
 release: v2020.4.20.9
 date: June 2020
-is-new: true
+is-new: false
 area: Reporting
 type: feature
 ---

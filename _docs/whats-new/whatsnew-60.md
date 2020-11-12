@@ -2,7 +2,7 @@
 title: Improvements to the Pupil Communication Log
 release: v2020.4.20.9
 date: June 2020
-is-new: true
+is-new: false
 area: Communications
 type: feature
 ---

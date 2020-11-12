@@ -2,7 +2,7 @@
 title: KS1 and KS2 Dashboards
 release: v2020.4.20.9
 date: June 2020
-is-new: true
+is-new: false
 area: Reporting
 type: feature
 ---

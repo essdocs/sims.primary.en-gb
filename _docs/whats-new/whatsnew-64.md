@@ -2,7 +2,7 @@
 title: Interventions
 release: v2020.5.29.13
 date: July 2020
-is-new: true
+is-new: false
 area: Pupils
 type: feature
 ---
