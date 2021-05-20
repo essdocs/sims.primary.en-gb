@@ -8,9 +8,9 @@ SIMS Primary – Privacy notice guidance for Data Controllers
 ## Introduction
 {:.no_toc}
 
-Capita Education Software Solutions are fully committed to keeping your information safe, especially when it comes to SIMS Primary.
+Education Software Solutions (ESS) are fully committed to keeping your information safe, especially when it comes to SIMS Primary.
 
-This privacy notice guidance is to help you understand what information Capita Education Software Solutions collects, the purpose for which it is collected and who we share the information with. It also explains the decisions that you can make about your information.
+This privacy notice guidance is to help you understand what information Education Software Solutions (ESS) collects, the purpose for which it is collected and who we share the information with. It also explains the decisions that you can make about your information.
 
 This notice will provide you with the following information:
 
@@ -26,7 +26,7 @@ For the purposes of this Privacy Notice:
 : means the data held within SIMS Primary application
 
 “ESS”
-: means Capita Education Software Solutions.
+: means Education Software Solutions.
 
 “Customer”
 : means the establishment that purchases the service. i.e. individual school, Multi Academy Trust, School support Unit
@@ -62,7 +62,7 @@ The Information Commisioner’s Office website can be referenced for full detail
 
 ## Who is storing / processing information about my organisation?
 
-**Capita Education Software Solutions**  
+**Education Software Solutions**  
 Franklin Court  
 Priory Business Park  
 Cardington  
@@ -71,9 +71,9 @@ MK44 3JZ
 
 Telephone: [01234 838080](tel:01234 838080])
 
-Website : [www.capita-sims.co.uk](http://www.capita-sims.co.uk){:target="_blank"}
+Website : [www.educationsoftwaresolutions.co.uk](http://www.educationsoftwaresolutions.co.uk){:target="_blank"}
 
-Should you have any queries relating to the collection of your information or about this guidance please contact the ESS privacy contact at [ESS.Compliance@capita.co.uk](mailto:ESS.Compliance@capita.co.uk).
+Should you have any queries relating to the collection of your information or about this guidance please contact the ESS privacy contact at [ESS.Compliance@educationsoftwaresolutions.co.uk](mailto:ESS.Compliance@educationsoftwaresolutions.co.uk).
 
 ## What information are you collecting about my organisation and why?
 
@@ -88,7 +88,7 @@ This information will be used for the following:
 * To assist ESS support and operations functions to tune their services to provide scalable and performant software using utilisation information of a period of time
 * To enhance the security of the system by tracking suspicious and anomalous behaviour.
 
-Please refer to the Capita SIMS Privacy Notice regarding data processed in our business systems that is collected as part of the SIMS Primary Service for service license and support purposes, this can be located at [www.capita-sims.co.uk/privacy-notice](https://www.capita-sims.co.uk/privacy-notice){:target="_blank"}.
+Please refer to the ESS SIMS Privacy Notice regarding data processed in our business systems that is collected as part of the SIMS Primary Service for service license and support purposes, this can be located at [www.educationsoftwaresolutions.co.uk/privacy-notice](https://www.educationsoftwaresolutions.co.uk/privacy-notice){:target="_blank"}.
 
 ## What is the legal basis for processing my organisation’s information?
 
@@ -99,14 +99,14 @@ ESS have a contractual obligation for the processing of customer SIMS7 and SIMS 
 
 We may share your SIMS Primary data and/or school information with the following parties:
 
-* Third party suppliers may need to access your data for support escalations raised by the customer. Third party suppliers include Capita India (part of Capita Group)
+* Third party suppliers may need to access your data for support escalations raised by the customer. Third party suppliers include ESS India (part of ESS Group)
 * To comply with any court order or other legal obligation
 
 It should be noted that your information is only shared with other parties where the customer has provided prior consent to do so and is stated in your contract with the exception of a legal obligation.
 
 ## Where might you transfer my organisation’s information outside of the EEA?
 
-* As mentioned in in section 6, Capita India (part of Capita Group) are based in India
+* As mentioned in in section 6, ESS India (part of ESS Group) are based in India
 * Your organisations information will only be shared with third party suppliers where you have provided consent in the form of a signed Data Agreement of Use form or by entering into a contract for SIMS Primary
 
 It should be noted that whilst the data physically remains within the EEA it is accessed from the secured location by the third party suppliers.
@@ -135,7 +135,7 @@ In the event that you report a data issue with your SIMS Primary information to 
 
 The SIMS Primary service is a securely hosted web service, delivered via the web using standard HTTPS TCP/IP protocols. The SIMS Primary service is hosted on a secure and highly scalable managed service, with the main system hosting provided by Microsoft Azure® UK, which is reliable and resilient. Microsoft Windows Azure has G-Cloud Impact Level 2 (IL2) from the Cabinet Office for use across the UK Public Sector. All data is securely stored and processed within the EU and complies with UK data protection standards and requirements. 
 
-Hosting and management of the SIMS Primary service infrastructure is undertaken fully by Capita on behalf of the establishment, including the provision of all software, maintenance operations, upgrades and background supporting processes. Application security is 256bit Secure Socket Layer (SSL), point-to-point encryption.
+Hosting and management of the SIMS Primary service infrastructure is undertaken fully by ESS on behalf of the establishment, including the provision of all software, maintenance operations, upgrades and background supporting processes. Application security is 256bit Secure Socket Layer (SSL), point-to-point encryption.
 
 ## Cookie information
 
@@ -168,4 +168,4 @@ Upon termination of the SIMS Primary contract, as a customer, you have the right
 ESS Data controller and individual’s rights
 : Where ESS is a data controller for information processed in business systems, customer portals and marketing platforms, individuals can exercise the relevant rights mentioned above.
 
-Please refer to the Capita SIMS Privacy Notice at [www.capita-sims.co.uk/privacy-notice](https://www.capita-sims.co.uk/privacy-notice){:target="_blank"} if you would like more information on this.
+Please refer to the ESS SIMS Privacy Notice at [www.educationsoftwaresolutions.co.uk/privacy-notice](https://www.educationsoftwaresolutions.co.uk/privacy-notice){:target="_blank"} if you would like more information on this.

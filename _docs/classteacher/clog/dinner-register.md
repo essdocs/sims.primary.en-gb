@@ -5,7 +5,7 @@ title: Recording lunches
 Recording pupils lunch-time preferences
 {:.lead}
 
-> **Record Lunches** requires a Dinner Money licence. [Click here to learn more.](https://www.capita-sims.co.uk/products-and-services/sims-dinner-money){:target="_blank"}
+> **Record Lunches** requires a Dinner Money licence. [Click here to learn more.](http://www.ess-sims.co.uk/products-and-services/sims-dinner-money){:target="_blank"}
 {:.note}
 
 ## Opening Record Lunches
