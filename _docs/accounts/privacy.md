@@ -62,12 +62,13 @@ The Information Commisioner’s Office website can be referenced for full detail
 
 ## Who is storing / processing information about my organisation?
 
-**Education Software Solutions**  
-Franklin Court  
+**Education Software Solutions Ltd.**  
+Priory Court  
+Stannard Way  
 Priory Business Park  
 Cardington  
-Bedfordshire  
-MK44 3JZ  
+Bedford  
+MK44 3SG  
 
 Telephone: [01234 838080](tel:01234 838080])
 
