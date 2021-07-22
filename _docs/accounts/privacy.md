@@ -62,12 +62,13 @@ The Information Commisioner’s Office website can be referenced for full detail
 
 ## Who is storing / processing information about my organisation?
 
-**Education Software Solutions**  
-Franklin Court  
+**Education Software Solutions Ltd.**  
+Priory Court  
+Stannard Way  
 Priory Business Park  
 Cardington  
-Bedfordshire  
-MK44 3JZ  
+Bedford  
+MK44 3SG  
 
 Telephone: [01234 838080](tel:01234 838080])
 
@@ -99,14 +100,14 @@ ESS have a contractual obligation for the processing of customer SIMS7 and SIMS 
 
 We may share your SIMS Primary data and/or school information with the following parties:
 
-* Third party suppliers may need to access your data for support escalations raised by the customer. Third party suppliers include ESS India (part of ESS Group)
+* Third party suppliers may need to access your data for support escalations raised by the customer. Third party suppliers include SIMS Education (India) Private Limited
 * To comply with any court order or other legal obligation
 
 It should be noted that your information is only shared with other parties where the customer has provided prior consent to do so and is stated in your contract with the exception of a legal obligation.
 
 ## Where might you transfer my organisation’s information outside of the EEA?
 
-* As mentioned in in section 6, ESS India (part of ESS Group) are based in India
+* As mentioned in in section 6, SIMS Education (India) Private Limited are based in India
 * Your organisations information will only be shared with third party suppliers where you have provided consent in the form of a signed Data Agreement of Use form or by entering into a contract for SIMS Primary
 
 It should be noted that whilst the data physically remains within the EEA it is accessed from the secured location by the third party suppliers.
