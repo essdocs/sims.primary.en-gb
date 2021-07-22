@@ -2,7 +2,7 @@
 title: Improvements to Import Pupil Premium files
 release: v2021.3.4.3
 date: April 2021
-is-new: true
+is-new: false
 area: Pupils
 type: feedback
 ---

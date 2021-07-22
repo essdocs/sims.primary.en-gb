@@ -2,7 +2,7 @@
 title: Attendance Reports Attendance Analysis by Code, Attendance Analysis By Code for Individual Pupils and Registration Certificate
 release: v2021.04.22.2
 date: May 2021
-is-new: true
+is-new: false
 area: Reporting
 type: feature
 ---

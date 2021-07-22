@@ -2,7 +2,7 @@
 title: Improvements to Staff Service Details
 release: v2021.3.4.3
 date: Mar 2021
-is-new: true
+is-new: false
 area: Staff
 type: feedback
 ---

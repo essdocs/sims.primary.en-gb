@@ -2,7 +2,7 @@
 title: Pupil List Reports
 release: v2020.9.16.4
 date: Sept 2020
-is-new: true
+is-new: false
 area: Reporting
 type: feature
 ---

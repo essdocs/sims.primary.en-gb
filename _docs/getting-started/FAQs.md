@@ -74,8 +74,6 @@ We store all data within the European Union in such a way as to fully comply wit
 
 We ensure that your data is kept secure with rigorous security processes, regular audits and a guarantee to meet government security compliance standards.
 
-For more details about SIMS's security, see our [Technical Guide](https://myaccount.capita-cs.co.uk/hot-topics/sims-primary-resource-hub/){:target="_blank"} to SIMS.
-
 {% include faq-end.html  %}
 
 {% include faq.html explain="How do I contact the **support desk**?" %}

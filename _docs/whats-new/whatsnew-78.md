@@ -2,7 +2,7 @@
 title: Assessment Reports
 release: v2020.9.25.5
 date: Nov 2020
-is-new: true
+is-new: false
 area: Reporting
 type: feature
 ---
@@ -13,7 +13,7 @@ Following customer feedback, three new Assessment reports have been provided:
 This report benefits schools that use Programmes of Study. It looks at the individual pupil’s overall subject and strand results for an assessments period. 
 
 ### Subject Assessment Results
-This report benefits schools that use Programmes of Study. It looks at all pupils for a given subject and displays the subject overall result and the strand results. 
+This report benefits schools that use Programmes of Study. It looks at all pupils for a given subject and displays the subject overall result and the strand results.
 
 ### Individual Assessment Results by Aspects
 Schools that are not following the curriculum scheme can now report on Assessment results for individual pupils using this report.

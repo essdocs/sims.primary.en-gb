@@ -2,7 +2,7 @@
 title: Attendance Apply Mark Over Date Range
 release: v2021.04.22.2
 date: May 2021
-is-new: true
+is-new: false
 area: Attendance
 type: feature
 ---

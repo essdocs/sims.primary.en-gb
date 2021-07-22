@@ -2,7 +2,7 @@
 title: Fix to Interventions Run Intervention
 release: v2021.3.4.3
 date: Mar 2021
-is-new: true
+is-new: false
 area: Interventions
 type: bug
 ---

@@ -2,7 +2,7 @@
 title: Fix to Admissions Delete Applications
 release: v2021.3.4.3
 date: Mar 2021
-is-new: true
+is-new: false
 area: Admissions
 type: bug
 ---

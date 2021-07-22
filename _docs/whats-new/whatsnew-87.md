@@ -2,7 +2,7 @@
 title: Improvements to System Manager User Accounts
 release: v2021.3.4.3
 date: Mar 2021
-is-new: true
+is-new: false
 area: User Accounts
 type: feedback
 ---

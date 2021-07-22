@@ -2,7 +2,7 @@
 title: Improvements to ATF Import File
 release: v2021.3.4.3
 date: April 2021
-is-new: true
+is-new: false
 area: Admissions
 type: feedback
 ---

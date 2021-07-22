@@ -28,13 +28,8 @@ Get the most out of SIMS in your school with guides, tips, examples, and other r
 * [User accounts](accounts/useraccounts/)
 * [Managing pupils](schoolmanagement/pupil/)
 * [Recording Attendance with Edit Marks](schoolmanagement/attendance/edit-marks)
-* *More coming soon*
 
 ## Your account
 
 * [Your account](accounts/)
 * [Privacy notice](accounts/privacy)
-  
-## More
-
-* [Roadmap](roadmap/)

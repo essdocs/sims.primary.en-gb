@@ -2,7 +2,7 @@
 title: Custom Reporting Date Ranges for Attendance
 release: v2020.9.25.5
 date: Nov 2020
-is-new: true
+is-new: false
 area: Reporting
 type: feature
 ---

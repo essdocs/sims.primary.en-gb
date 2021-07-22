@@ -2,7 +2,7 @@
 title: School Census Autumn 2020
 release: v2020.9.16.4
 date: Sept 2020
-is-new: true
+is-new: false
 area: Statutory Returns
 type: feature
 ---
