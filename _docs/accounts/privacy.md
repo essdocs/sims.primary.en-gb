@@ -63,14 +63,11 @@ The Information Commisioner’s Office website can be referenced for full detail
 ## Who is storing / processing information about my organisation?
 
 **Education Software Solutions Ltd.**  
-Priory Court  
-Stannard Way  
-Priory Business Park  
-Cardington  
-Bedford  
-MK44 3SG  
-
-Telephone: [01234 838080](tel:01234 838080])
+Eastwood House  
+Glebe Road  
+Chelmsford  
+Essex  
+CM1 1QW  
 
 Website : [www.educationsoftwaresolutions.co.uk](http://www.educationsoftwaresolutions.co.uk){:target="_blank"}
 
