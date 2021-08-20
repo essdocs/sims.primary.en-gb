@@ -18,7 +18,7 @@ This feature enables the School Administrator to set up a reporting session, the
 
 The following templates are available, which are used to generate the parental reports. The reports can then be sent to the pupil’s home.
 
-Templates that enable the user to create either a termly or annual report with assessment data, using the DFE programme of study. They includes Conduct data:
+Templates that enable the user to create either a termly or annual report with assessment data, using the DFE programme of study. They include Attendance and Conduct data:
 
 - Annual templates from year 1-6
 - Termly templates from year 1-6.

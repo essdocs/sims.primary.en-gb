@@ -9,7 +9,7 @@ type: feature
 
 This is the first release of Parental Reporting to live customers.
 
-This feature enables the class teacher to check Assessment and Conduct data for their pupils, to ensure the information recorded is accurate and up-to-date. It also enables them to record their comments about the pupils.
+This feature enables the class teacher to check Assessment, Attendance and Conduct data for their pupils, to ensure the information recorded is accurate and up-to-date. It also enables them to record their comments about the pupils.
 
 Additionally, the Head Teacher can then review the teacher comments and sign them off, ahead of the report generation and printing process. Please see [Parental Reporting – Manage Parental Reporting](whatsnew-99).
 
