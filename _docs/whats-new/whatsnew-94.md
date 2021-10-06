@@ -2,7 +2,7 @@
 title: SIMS Primary registration process enhancement
 release: v2021.05.11.5
 date: May 2021
-is-new: true
+is-new: false
 area: User Management
 type: feature
 ---

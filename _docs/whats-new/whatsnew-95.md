@@ -2,7 +2,7 @@
 title: Registration Certificate by Group Report enhancement
 release: v2021.05.11.5
 date: May 2021
-is-new: true
+is-new: false
 area: Reporting
 type: feedback
 ---

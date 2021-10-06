@@ -2,7 +2,7 @@
 title: School Summer Census 2021
 release: v2021.05.11.5
 date: May 2021
-is-new: true
+is-new: false
 area: Statutory Returns
 type: feature
 ---
